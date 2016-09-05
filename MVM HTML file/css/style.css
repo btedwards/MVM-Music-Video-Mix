@@ -3,8 +3,9 @@ html {
     min-height: 100%;
 }
 
+
 body {
-    background-image:url('https://www.allforthecode.co.uk/data/articles/8/slide03.jpg');
+    background-image:url('http://www.cfau-pd.net/images/beach-wallpaper-hd/beach-wallpaper-hd-5.jpg');
     background-repeat:no-repeat;
     background-size: cover;
         
@@ -37,7 +38,6 @@ body {
 	width: 150px;
 	margin-left: -75px;
 }
-
 
 .controls a {
 	display: block;
